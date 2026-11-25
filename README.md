@@ -10,7 +10,7 @@ Automated archive tracking and release repository for Tencent WeCom (Enterprise 
 
 This project uses `GitHub Actions` to automatically check for macOS client updates **every hour**, download official DMG packages for both **Apple Silicon** (M-series) and **Intel x86_64**, compute SHA-256 integrity checksums, and publish them together to the [Releases](https://github.com/meteor-ioi/wecom-mac-versions/releases) section.
 
-It also supports chronologically backfilling historical releases.
+It also supports chronologically backfilling historical releases. See [VERSIONS.md](VERSIONS.md) for the complete list of historical download links.
 
 ## Dual Architecture Support
 
