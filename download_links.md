@@ -1,0 +1,72 @@
+| 版本号 | 安装包大小 | 官方下载直链 |
+| :--- | :--- | :--- |
+| 5.0.13.95049 (Apple Silicon) | 692.64 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.13.95049_Apple.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.13.95049_Apple.dmg) |
+| 5.0.13.91309 (Intel) | 740.02 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.13.91309_Intel.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.13.91309_Intel.dmg) |
+| 5.0.12.95037 (Apple Silicon) | 690.81 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.12.95037_Apple.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.12.95037_Apple.dmg) |
+| 5.0.12.91300 (Intel) | 738.84 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.12.91300_Intel.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.12.91300_Intel.dmg) |
+| 5.0.11.99998 (Apple Silicon) | 679.45 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.11.99998_Apple.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.11.99998_Apple.dmg) |
+| 5.0.11.91277 (Intel) | 725.29 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.11.91277_Intel.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.11.91277_Intel.dmg) |
+| 5.0.11.99983 (Apple Silicon) | 676.89 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.11.99983_Apple.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.11.99983_Apple.dmg) |
+| 5.0.11.91267 (Intel) | 722.59 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.11.91267_Intel.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.11.91267_Intel.dmg) |
+| 5.0.10.99949 (Apple Silicon) | 639.19 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.10.99949_Apple.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.10.99949_Apple.dmg) |
+| 5.0.10.91244 (Intel) | 676.62 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.10.91244_Intel.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.10.91244_Intel.dmg) |
+| 5.0.10.99941 (Apple Silicon) | 638.28 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.10.99941_Apple.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.10.99941_Apple.dmg) |
+| 5.0.10.91236 (Intel) | 675.39 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.10.91236_Intel.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.10.91236_Intel.dmg) |
+| 5.0.9.99905 (Apple Silicon) | 635.06 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.9.99905_Apple.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.9.99905_Apple.dmg) |
+| 5.0.9.91222 (Intel) | 673.6 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.9.91222_Intel.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.9.91222_Intel.dmg) |
+| 5.0.8.99856 (Apple Silicon) | 596.28 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.8.99856_Apple.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.8.99856_Apple.dmg) |
+| 5.0.8.91184 (Intel) | 631.67 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.8.91184_Intel.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.8.91184_Intel.dmg) |
+| 5.0.7.99844 (Apple Silicon) | 589.07 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.7.99844_Apple.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.7.99844_Apple.dmg) |
+| 5.0.7.91176 (Intel) | 624.17 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.7.91176_Intel.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.7.91176_Intel.dmg) |
+| 5.0.6.99829 (Apple Silicon) | 587.25 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.6.99829_Apple.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.6.99829_Apple.dmg) |
+| 5.0.6.91166 (Intel) | 622.44 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.6.91166_Intel.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.6.91166_Intel.dmg) |
+| 5.0.3.99789 (Apple Silicon) | 597.29 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.3.99789_Apple.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.3.99789_Apple.dmg) |
+| 5.0.3.91136 (Intel) | 633.84 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.3.91136_Intel.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.3.91136_Intel.dmg) |
+| 5.0.2.99762 (Apple Silicon) | 601.28 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.2.99762_Apple.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.2.99762_Apple.dmg) |
+| 5.0.2.91115 (Intel) | 637.77 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.2.91115_Intel.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.2.91115_Intel.dmg) |
+| 5.0.0.99730 (Apple Silicon) | 556.81 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.0.99730_Apple.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.0.99730_Apple.dmg) |
+| 5.0.0.91094 (Intel) | 590.81 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.0.91094_Intel.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.0.91094_Intel.dmg) |
+| 4.1.41.99724 (Apple Silicon) | 550.21 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.41.99724_Apple.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.41.99724_Apple.dmg) |
+| 4.1.41.91088 (Intel) | 584.1 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.41.91088_Intel.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.41.91088_Intel.dmg) |
+| 4.1.39.99711 (Apple Silicon) | 549.62 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.39.99711_Apple.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.39.99711_Apple.dmg) |
+| 4.1.39.91079 (Intel) | 583.66 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.39.91079_Intel.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.39.91079_Intel.dmg) |
+| 4.1.38.99668 (Apple Silicon) | 553.79 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.38.99668_Apple.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.38.99668_Apple.dmg) |
+| 4.1.38.91072 (Intel) | 587.56 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.38.91072_Intel.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.38.91072_Intel.dmg) |
+| 4.1.36.99631 (Apple Silicon) | 540.68 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.36.99631_Apple.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.36.99631_Apple.dmg) |
+| 4.1.36.91060 (Intel) | 574.74 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.36.91060_Intel.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.36.91060_Intel.dmg) |
+| 4.1.36.99603 (Apple Silicon) | 540.66 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.36.99603_Apple.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.36.99603_Apple.dmg) |
+| 4.1.36.91041 (Intel) | 574.72 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.36.91041_Intel.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.36.91041_Intel.dmg) |
+| 4.1.36.99598 (Apple Silicon) | 540.34 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.36.99598_Apple.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.36.99598_Apple.dmg) |
+| 4.1.36.91036 (Intel) | 574.44 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.36.91036_Intel.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.36.91036_Intel.dmg) |
+| 4.1.33.99589 (Apple Silicon) | 538.29 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.33.99589_Apple.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.33.99589_Apple.dmg) |
+| 4.1.33.91030 (Intel) | 570.64 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.33.91030_Intel.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.33.91030_Intel.dmg) |
+| 4.1.32.99582 (Apple Silicon) | 536.78 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.32.99582_Apple.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.32.99582_Apple.dmg) |
+| 4.1.32.91024 (Intel) | 569.11 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.32.91024_Intel.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.32.91024_Intel.dmg) |
+| 4.1.32.99555 (Apple Silicon) | 536.69 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.32.99555_Apple.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.32.99555_Apple.dmg) |
+| 4.1.32.91011 (Intel) | 568.95 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.32.91011_Intel.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.32.91011_Intel.dmg) |
+| 4.1.31.99548 (Apple Silicon) | 532.4 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.31.99548_Apple.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.31.99548_Apple.dmg) |
+| 4.1.31.91006 (Intel) | 565.18 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.31.91006_Intel.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.31.91006_Intel.dmg) |
+| 4.1.30.99529 (Apple Silicon) | 532.16 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.30.99529_Apple.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.30.99529_Apple.dmg) |
+| 4.1.30.90984 (Intel) | 564.94 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.30.90984_Intel.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.30.90984_Intel.dmg) |
+| 4.1.28.99511 (Apple Silicon) | 526.94 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.28.99511_Apple.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.28.99511_Apple.dmg) |
+| 4.1.28.90967 (Intel) | 559.54 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.28.90967_Intel.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.28.90967_Intel.dmg) |
+| 4.1.28.99506 (Apple Silicon) | 523.5 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.28.99506_Apple.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.28.99506_Apple.dmg) |
+| 4.1.28.90963 (Intel) | 556.75 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.28.90963_Intel.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.28.90963_Intel.dmg) |
+| 4.1.27.99496 (Apple Silicon) | 530.59 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.27.99496_Apple.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.27.99496_Apple.dmg) |
+| 4.1.27.90952 (Intel) | 562.78 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.27.90952_Intel.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.27.90952_Intel.dmg) |
+| 4.1.26.99469 (Apple Silicon) | 521.76 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.26.99469_Apple.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.26.99469_Apple.dmg) |
+| 4.1.26.90928 (Intel) | 549.35 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.26.90928_Intel.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.26.90928_Intel.dmg) |
+| 4.1.22.90907 (Intel) | 537.48 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.22.90907_Intel.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.22.90907_Intel.dmg) |
+| 4.1.20.99420 (Apple Silicon) | 500.69 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.20.99420_Apple.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.20.99420_Apple.dmg) |
+| 4.1.20.90880 (Intel) | 529.85 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.20.90880_Intel.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.20.90880_Intel.dmg) |
+| 4.1.20.99416 (Apple Silicon) | 500.7 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.20.99416_Apple.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.20.99416_Apple.dmg) |
+| 4.1.20.90864 (Intel) | 529.83 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.20.90864_Intel.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.20.90864_Intel.dmg) |
+| 4.1.16.99385 (Apple Silicon) | 498.89 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.16.99385_Apple.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.16.99385_Apple.dmg) |
+| 4.1.16.90837 (Intel) | 527.94 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.16.90837_Intel.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.16.90837_Intel.dmg) |
+| 4.1.15.99371 (Apple Silicon) | 497.57 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.15.99371_Apple.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.15.99371_Apple.dmg) |
+| 4.1.15.90827 (Intel) | 526.65 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.15.90827_Intel.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.15.90827_Intel.dmg) |
+| 4.1.15.99367 (Apple Silicon) | 497.55 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.15.99367_Apple.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.15.99367_Apple.dmg) |
+| 4.1.15.90825 (Intel) | 526.65 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.15.90825_Intel.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.15.90825_Intel.dmg) |
+| 4.1.13.99357 (Apple Silicon) | 497.63 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.13.99357_Apple.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.13.99357_Apple.dmg) |
+| 4.1.13.90811 (Intel) | 526.55 MB | [https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.13.90811_Intel.dmg](https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.13.90811_Intel.dmg) |
+| 4.1.10.90765 (Universal) | 542.31 MB | [https://dldir1.qq.com/foxmail/wecom-mac/update/WeCom_4.1.10.90765.dmg](https://dldir1.qq.com/foxmail/wecom-mac/update/WeCom_4.1.10.90765.dmg) |
