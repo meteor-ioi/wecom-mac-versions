@@ -1,0 +1,326 @@
+[
+  {
+    "version": "4.1.10.90765",
+    "intel_version": "4.1.10.90765",
+    "date": "2023-09-29",
+    "arm_url": "https://dldir1.qq.com/foxmail/wecom-mac/update/WeCom_4.1.10.90765.dmg",
+    "arm_size_mb": 542.31,
+    "intel_url": "https://dldir1.qq.com/foxmail/wecom-mac/update/WeCom_4.1.10.90765.dmg",
+    "intel_size_mb": 542.31
+  },
+  {
+    "version": "4.1.13.99357",
+    "intel_version": "4.1.13.90811",
+    "date": "2023-12-05",
+    "arm_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.13.99357_Apple.dmg",
+    "arm_size_mb": 497.63,
+    "intel_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.13.90811_Intel.dmg",
+    "intel_size_mb": 526.55
+  },
+  {
+    "version": "4.1.15.99367",
+    "intel_version": "4.1.15.90825",
+    "date": "2023-12-11",
+    "arm_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.15.99367_Apple.dmg",
+    "arm_size_mb": 497.55,
+    "intel_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.15.90825_Intel.dmg",
+    "intel_size_mb": 526.65
+  },
+  {
+    "version": "4.1.15.99371",
+    "intel_version": "4.1.15.90827",
+    "date": "2023-12-15",
+    "arm_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.15.99371_Apple.dmg",
+    "arm_size_mb": 497.57,
+    "intel_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.15.90827_Intel.dmg",
+    "intel_size_mb": 526.65
+  },
+  {
+    "version": "4.1.16.99385",
+    "intel_version": "4.1.16.90837",
+    "date": "2023-12-21",
+    "arm_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.16.99385_Apple.dmg",
+    "arm_size_mb": 498.89,
+    "intel_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.16.90837_Intel.dmg",
+    "intel_size_mb": 527.94
+  },
+  {
+    "version": "4.1.20.99416",
+    "intel_version": "4.1.20.90864",
+    "date": "2024-01-16",
+    "arm_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.20.99416_Apple.dmg",
+    "arm_size_mb": 500.7,
+    "intel_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.20.90864_Intel.dmg",
+    "intel_size_mb": 529.83
+  },
+  {
+    "version": "4.1.20.99420",
+    "intel_version": "4.1.20.90880",
+    "date": "2024-01-31",
+    "arm_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.20.99420_Apple.dmg",
+    "arm_size_mb": 500.69,
+    "intel_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.20.90880_Intel.dmg",
+    "intel_size_mb": 529.85
+  },
+  {
+    "version": "4.1.22.99445",
+    "intel_version": "4.1.22.90907",
+    "date": "2024-04-08",
+    "arm_url": null,
+    "arm_size_mb": null,
+    "intel_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.22.90907_Intel.dmg",
+    "intel_size_mb": 537.48
+  },
+  {
+    "version": "4.1.26.99469",
+    "intel_version": "4.1.26.90928",
+    "date": "2024-05-31",
+    "arm_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.26.99469_Apple.dmg",
+    "arm_size_mb": 521.76,
+    "intel_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.26.90928_Intel.dmg",
+    "intel_size_mb": 549.35
+  },
+  {
+    "version": "4.1.27.99496",
+    "intel_version": "4.1.27.90952",
+    "date": "2024-07-08",
+    "arm_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.27.99496_Apple.dmg",
+    "arm_size_mb": 530.59,
+    "intel_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.27.90952_Intel.dmg",
+    "intel_size_mb": 562.78
+  },
+  {
+    "version": "4.1.28.99506",
+    "intel_version": "4.1.28.90963",
+    "date": "2024-07-26",
+    "arm_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.28.99506_Apple.dmg",
+    "arm_size_mb": 523.5,
+    "intel_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.28.90963_Intel.dmg",
+    "intel_size_mb": 556.75
+  },
+  {
+    "version": "4.1.28.99511",
+    "intel_version": "4.1.28.90967",
+    "date": "2024-08-27",
+    "arm_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.28.99511_Apple.dmg",
+    "arm_size_mb": 526.94,
+    "intel_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.28.90967_Intel.dmg",
+    "intel_size_mb": 559.54
+  },
+  {
+    "version": "4.1.30.99529",
+    "intel_version": "4.1.30.90984",
+    "date": "2024-09-25",
+    "arm_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.30.99529_Apple.dmg",
+    "arm_size_mb": 532.16,
+    "intel_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.30.90984_Intel.dmg",
+    "intel_size_mb": 564.94
+  },
+  {
+    "version": "4.1.31.99548",
+    "intel_version": "4.1.31.91006",
+    "date": "2024-11-12",
+    "arm_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.31.99548_Apple.dmg",
+    "arm_size_mb": 532.4,
+    "intel_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.31.91006_Intel.dmg",
+    "intel_size_mb": 565.18
+  },
+  {
+    "version": "4.1.32.99555",
+    "intel_version": "4.1.32.91011",
+    "date": "2024-12-23",
+    "arm_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.32.99555_Apple.dmg",
+    "arm_size_mb": 536.69,
+    "intel_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.32.91011_Intel.dmg",
+    "intel_size_mb": 568.95
+  },
+  {
+    "version": "4.1.32.99582",
+    "intel_version": "4.1.32.91024",
+    "date": "2025-02-12",
+    "arm_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.32.99582_Apple.dmg",
+    "arm_size_mb": 536.78,
+    "intel_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.32.91024_Intel.dmg",
+    "intel_size_mb": 569.11
+  },
+  {
+    "version": "4.1.33.99589",
+    "intel_version": "4.1.33.91030",
+    "date": "2025-02-20",
+    "arm_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.33.99589_Apple.dmg",
+    "arm_size_mb": 538.29,
+    "intel_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.33.91030_Intel.dmg",
+    "intel_size_mb": 570.64
+  },
+  {
+    "version": "4.1.36.99598",
+    "intel_version": "4.1.36.91036",
+    "date": "2025-03-27",
+    "arm_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.36.99598_Apple.dmg",
+    "arm_size_mb": 540.34,
+    "intel_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.36.91036_Intel.dmg",
+    "intel_size_mb": 574.44
+  },
+  {
+    "version": "4.1.36.99603",
+    "intel_version": "4.1.36.91041",
+    "date": "2025-04-03",
+    "arm_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.36.99603_Apple.dmg",
+    "arm_size_mb": 540.66,
+    "intel_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.36.91041_Intel.dmg",
+    "intel_size_mb": 574.72
+  },
+  {
+    "version": "4.1.36.99631",
+    "intel_version": "4.1.36.91060",
+    "date": "2025-05-09",
+    "arm_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.36.99631_Apple.dmg",
+    "arm_size_mb": 540.68,
+    "intel_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.36.91060_Intel.dmg",
+    "intel_size_mb": 574.74
+  },
+  {
+    "version": "4.1.38.99668",
+    "intel_version": "4.1.38.91072",
+    "date": "2025-06-12",
+    "arm_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.38.99668_Apple.dmg",
+    "arm_size_mb": 553.79,
+    "intel_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.38.91072_Intel.dmg",
+    "intel_size_mb": 587.56
+  },
+  {
+    "version": "4.1.39.99711",
+    "intel_version": "4.1.39.91079",
+    "date": "2025-07-17",
+    "arm_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.39.99711_Apple.dmg",
+    "arm_size_mb": 549.62,
+    "intel_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.39.91079_Intel.dmg",
+    "intel_size_mb": 583.66
+  },
+  {
+    "version": "4.1.41.99724",
+    "intel_version": "4.1.41.91088",
+    "date": "2025-08-08",
+    "arm_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.41.99724_Apple.dmg",
+    "arm_size_mb": 550.21,
+    "intel_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_4.1.41.91088_Intel.dmg",
+    "intel_size_mb": 584.1
+  },
+  {
+    "version": "5.0.0.99730",
+    "intel_version": "5.0.0.91094",
+    "date": "2025-08-19",
+    "arm_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.0.99730_Apple.dmg",
+    "arm_size_mb": 556.81,
+    "intel_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.0.91094_Intel.dmg",
+    "intel_size_mb": 590.81
+  },
+  {
+    "version": "5.0.2.99762",
+    "intel_version": "5.0.2.91115",
+    "date": "2025-11-18",
+    "arm_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.2.99762_Apple.dmg",
+    "arm_size_mb": 601.28,
+    "intel_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.2.91115_Intel.dmg",
+    "intel_size_mb": 637.77
+  },
+  {
+    "version": "5.0.3.99789",
+    "intel_version": "5.0.3.91136",
+    "date": "2025-12-29",
+    "arm_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.3.99789_Apple.dmg",
+    "arm_size_mb": 597.29,
+    "intel_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.3.91136_Intel.dmg",
+    "intel_size_mb": 633.84
+  },
+  {
+    "version": "5.0.6.99829",
+    "intel_version": "5.0.6.91166",
+    "date": "2026-02-09",
+    "arm_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.6.99829_Apple.dmg",
+    "arm_size_mb": 587.25,
+    "intel_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.6.91166_Intel.dmg",
+    "intel_size_mb": 622.44
+  },
+  {
+    "version": "5.0.7.99844",
+    "intel_version": "5.0.7.91176",
+    "date": "2026-03-13",
+    "arm_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.7.99844_Apple.dmg",
+    "arm_size_mb": 589.07,
+    "intel_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.7.91176_Intel.dmg",
+    "intel_size_mb": 624.17
+  },
+  {
+    "version": "5.0.8.99856",
+    "intel_version": "5.0.8.91184",
+    "date": "2026-04-22",
+    "arm_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.8.99856_Apple.dmg",
+    "arm_size_mb": 596.28,
+    "intel_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.8.91184_Intel.dmg",
+    "intel_size_mb": 631.67
+  },
+  {
+    "version": "5.0.9.99905",
+    "intel_version": "5.0.9.91222",
+    "date": "2026-06-23",
+    "arm_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.9.99905_Apple.dmg",
+    "arm_size_mb": 635.06,
+    "intel_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.9.91222_Intel.dmg",
+    "intel_size_mb": 673.6
+  },
+  {
+    "version": "5.0.10.99941",
+    "intel_version": "5.0.10.91236",
+    "date": "2026-08-17",
+    "arm_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.10.99941_Apple.dmg",
+    "arm_size_mb": 638.28,
+    "intel_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.10.91236_Intel.dmg",
+    "intel_size_mb": 675.39
+  },
+  {
+    "version": "5.0.10.99949",
+    "intel_version": "5.0.10.91244",
+    "date": "2026-08-24",
+    "arm_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.10.99949_Apple.dmg",
+    "arm_size_mb": 639.19,
+    "intel_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.10.91244_Intel.dmg",
+    "intel_size_mb": 676.62
+  },
+  {
+    "version": "5.0.11.99983",
+    "intel_version": "5.0.11.91267",
+    "date": "2026-09-10",
+    "arm_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.11.99983_Apple.dmg",
+    "arm_size_mb": 676.89,
+    "intel_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.11.91267_Intel.dmg",
+    "intel_size_mb": 722.59
+  },
+  {
+    "version": "5.0.11.99998",
+    "intel_version": "5.0.11.91277",
+    "date": "2026-09-19",
+    "arm_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.11.99998_Apple.dmg",
+    "arm_size_mb": 679.45,
+    "intel_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.11.91277_Intel.dmg",
+    "intel_size_mb": 725.29
+  },
+  {
+    "version": "5.0.12.95037",
+    "intel_version": "5.0.12.91300",
+    "date": "2026-10-12",
+    "arm_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.12.95037_Apple.dmg",
+    "arm_size_mb": 690.81,
+    "intel_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.12.91300_Intel.dmg",
+    "intel_size_mb": 738.84
+  },
+  {
+    "version": "5.0.13.95049",
+    "intel_version": "5.0.13.91309",
+    "date": "2026-10-23",
+    "arm_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.13.95049_Apple.dmg",
+    "arm_size_mb": 692.64,
+    "intel_url": "https://dldir1.qq.com/foxmail/wecom-mac/updatebzl/WeCom_5.0.13.91309_Intel.dmg",
+    "intel_size_mb": 740.02
+  }
+]
