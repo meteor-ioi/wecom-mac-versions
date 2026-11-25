@@ -47,6 +47,40 @@ def download_and_hash(url, dest_path):
             f.write(chunk)
     return hasher.hexdigest()
 
+
+def update_mac_versions_md(arm_ver, arm_url, intel_ver, intel_url):
+    versions_file = Path("VERSIONS.md")
+    if not versions_file.exists():
+        return
+    content = versions_file.read_text(encoding="utf-8")
+    lines = content.splitlines()
+    header_idx = -1
+    for idx, line in enumerate(lines):
+        if line.strip().startswith("| :---"):
+            header_idx = idx
+            break
+    if header_idx != -1:
+        # HEAD to get size if possible
+        def get_size(u):
+            try:
+                r = urllib.request.Request(u, method="HEAD")
+                with urllib.request.urlopen(r, timeout=5) as resp:
+                    return f"{round(int(resp.headers.get('Content-Length', 0))/(1024*1024), 2)} MB"
+            except:
+                return "-"
+        arm_size = get_size(arm_url)
+        intel_size = get_size(intel_url)
+        new_rows = [
+            f"| {arm_ver} (Apple Silicon) | {arm_size} | [{arm_url}]({arm_url}) |",
+            f"| {intel_ver} (Intel) | {intel_size} | [{intel_url}]({intel_url}) |"
+        ]
+        for row in reversed(new_rows):
+            lines.insert(header_idx + 1, row)
+        versions_file.write_text("
+".join(lines) + "
+", encoding="utf-8")
+        print(f"Updated VERSIONS.md with Mac version {arm_ver}")
+
 def main():
     repo = os.getenv("GITHUB_REPOSITORY", "meteor-ioi/wecom-mac-versions")
     arm_url = resolve_redirect(URL_ARM)
@@ -90,6 +124,7 @@ def main():
             f"- **SHA-256**: `{intel_sha}`\n"
         )
         (build_dir / "releaseNote.md").write_text(release_note, encoding="utf-8")
+        update_mac_versions_md(arm_ver, arm_url, intel_ver, intel_url)
         print("Release note generated.")
     else:
         print(f"Release {tag} already exists. No update required.")
